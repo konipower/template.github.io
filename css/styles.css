@@ -133,7 +133,7 @@ nav {
 }
 
 .rating[data-rating="2"]::before {
-  color: #f1c40f;
+  color: #00FEEE;
   clip-path: inset(0 60% 0 0);
 }
 
